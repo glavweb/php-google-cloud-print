@@ -1,0 +1,19 @@
+{
+    "name": "glavweb/php-google-cloud-print",
+    "type": "library",
+    "description": "PHP implementation of Google Cloud Print",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nilov Andrey",
+            "email": "nilov@glavweb.ru",
+            "homepage": "http://glavweb.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": { "Google\\Service\\": "src/" }
+    }
+}
