@@ -11,7 +11,6 @@ class GoogleCloudPrint
 	/**
 	 * Constants of URLs
 	 */
-	const URL_LOGIN      = 'https://www.google.com/accounts/ClientLogin';
 	const URL_SEARCH     = 'https://www.google.com/cloudprint/search';
 	const URL_SUBMIT     = 'https://www.google.com/cloudprint/submit';
 	const URL_DELETE_JOB = 'https://www.google.com/cloudprint/deletejob';
