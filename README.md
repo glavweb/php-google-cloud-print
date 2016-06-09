@@ -6,4 +6,6 @@ using your Gmail account and Google Chrome browser. Follow the instructions on t
 to Google Cloud Print
 https://support.google.com/cloudprint/answer/1686197
 
+The API documentation is available right here: https://developers.google.com/cloud-print/docs/proxyinterfaces
+
 Update login information in example.php and see the results.
